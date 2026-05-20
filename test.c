@@ -8,8 +8,6 @@
 
 int main() {
 
-// reverseNumber() → Reverse a number
-
     int mx = max(5, 9);
     printf("Max number is = %d\n", mx);
 
@@ -34,7 +32,6 @@ int main() {
 
     printf("Binary value is = ");
     decimalTobinary(15);
-
     
     int dNum = binaryToDecimal(1111);
     printf("Decimal value is = %d\n", dNum);
